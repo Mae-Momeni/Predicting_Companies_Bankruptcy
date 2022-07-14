@@ -1,4 +1,4 @@
-# Predicting_Companies_Bankruptcy
+# Project: Predicting_Companies_Bankruptcy
 **Goal:**<br> 
 To predict if a company will bankrupt.
 
