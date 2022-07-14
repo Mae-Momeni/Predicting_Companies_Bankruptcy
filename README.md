@@ -1,1 +1,1 @@
-# PROJECT______PredictingCompaniesBankruptcy
+# Predicting_Companies_Bankruptcy
