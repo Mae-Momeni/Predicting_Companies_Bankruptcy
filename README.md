@@ -1,4 +1,4 @@
-# Project: Predicting Companies Bankruptcy
+# Project: Predicting Companies Bankruptcy 
 **This project is predicting companies’ bankruptcy. It is a classifier to forecast if a company will bankrupt or not.**<br> 
 <br>
 The summary of the project is as follows:<br>
